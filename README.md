@@ -1,6 +1,6 @@
 <img src="https://i.postimg.cc/vHFB1JPf/Tech-Gomes-menor.png">
 
-# Tech Gomes - Inovação, tecnologia e evolução
+# Tech Gomes
 
 <p>Página pessoal e profissional para aplicação de conhecimentos adquirido.</p>
 <p>Assuntos abordados:</p>

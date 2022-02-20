@@ -3,7 +3,6 @@
 # Tech Gomes
 
 <p>Página pessoal e profissional para aplicação de conhecimentos adquirido.</p>
-<p>Assuntos abordados:</p>
 <p>Análise e Desenvolvimento de Sistemas</p>
 <p>Temas atuais</p>
 <p>Gestão de pessoas, negócios, processos, produtos</p>

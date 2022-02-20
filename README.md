@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/TPQNzvsb/Tech-Gomes.png">
+<img src="https://i.postimg.cc/vHFB1JPf/Tech-Gomes-menor.png">
 
 # Tech Gomes - Inovação, tecnologia e evolução
 
